@@ -26,9 +26,9 @@ files {
 
 ---------------------Scripts  Client/Server--------------------------------
 
-client_script {
-    'data/vehicle_names.lua' 
-}
+--client_script {
+    --'data/vehicle_names.lua' 
+--}
 
 ---------------------Data  Files-------------------------------------------
 
@@ -133,3 +133,17 @@ data_file 'AUDIO_WAVEPACK' 'sounds/sfx/dlc_elegyx'
 data_file 'AUDIO_GAMEDATA' 'sounds/audioconfig/elegyrh6_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'sounds/audioconfig/elegyrh6_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sounds/sfx/dlc_rh6elegy'
+
+-- Intruderc (Intruderc Only)
+data_file 'AUDIO_GAMEDATA' 'sounds/audioconfig/intruderc_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'sounds/audioconfig/intruderc_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sounds/sfx/dlc_intruderc'
+
+-- Domttc (Domttc Only)
+data_file 'AUDIO_GAMEDATA' 'sounds/audioconfig/domttc_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'sounds/audioconfig/domttc_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sounds/sfx/dlc_domttc'
+
+-- NW Jester (NW Jester Only)
+data_file 'AUDIO_GAMEDATA' 'sounds/audioconfig/nw_jester_game.dat'
+data_file 'AUDIO_WAVEPACK' 'sounds/sfx/dlc_nw_jester'

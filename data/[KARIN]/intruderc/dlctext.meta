@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CExtraTextMetaFile>
+	<hasGlobalTextFile value="true"/>
+	<hasAdditionalText value="true"/>
+	<isTitleUpdate value="false"/>
+	<textEntries>
+										<Item>
+            <name>intruderc</name>
+            <value>Intruder Custom</value>
+  								</Item>
+</textEntries>
+</CExtraTextMetaFile>
