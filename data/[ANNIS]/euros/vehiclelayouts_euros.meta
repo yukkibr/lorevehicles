@@ -325,9 +325,9 @@
   <VehicleEntryPointInfos>
     <Item type="CVehicleEntryPointInfo">
       <Name>ENTRY_POINT_EUROS_FRONT_RIGHT</Name>
-      <DoorBoneName>door_dside_f</DoorBoneName>
+      <DoorBoneName>door_pside_f</DoorBoneName>
       <SecondDoorBoneName />
-      <DoorHandleBoneName>handle_dside_f</DoorHandleBoneName>
+      <DoorHandleBoneName>handle_pside_f</DoorHandleBoneName>
       <WindowId>FRONT_RIGHT</WindowId>
       <VehicleSide>SIDE_RIGHT</VehicleSide>
       <AccessableSeats>
@@ -341,9 +341,9 @@
     </Item>
     <Item type="CVehicleEntryPointInfo">
       <Name>ENTRY_POINT_EUROS_FRONT_LEFT</Name>
-      <DoorBoneName>door_pside_f</DoorBoneName>
+      <DoorBoneName>door_dside_f</DoorBoneName>
       <SecondDoorBoneName />
-      <DoorHandleBoneName>handle_pside_f</DoorHandleBoneName>
+      <DoorHandleBoneName>handle_dside_f</DoorHandleBoneName>
       <WindowId>FRONT_LEFT</WindowId>
       <VehicleSide>SIDE_LEFT</VehicleSide>
       <AccessableSeats>
@@ -414,12 +414,12 @@
       </Seats>
       <EntryPoints>
         <Item>
-          <EntryPointInfo ref="ENTRY_POINT_EUROS_FRONT_RIGHT" />
-          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_STD_EUROS_FRONT_RIGHT" />
-        </Item>
-        <Item>
           <EntryPointInfo ref="ENTRY_POINT_EUROS_FRONT_LEFT" />
           <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_STD_EUROS_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_EUROS_FRONT_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_STD_EUROS_FRONT_RIGHT" />
         </Item>
       </EntryPoints>
       <LayoutFlags>StreamAnims UseDoorOscillation UseLeanSteerAnims UseSteeringWheelIk UseFinerAlignTolerance</LayoutFlags>
