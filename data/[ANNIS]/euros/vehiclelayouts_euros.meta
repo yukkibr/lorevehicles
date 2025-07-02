@@ -414,12 +414,12 @@
       </Seats>
       <EntryPoints>
         <Item>
-          <EntryPointInfo ref="ENTRY_POINT_EUROS_FRONT_LEFT" />
-          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_STD_EUROS_FRONT_LEFT" />
-        </Item>
-        <Item>
           <EntryPointInfo ref="ENTRY_POINT_EUROS_FRONT_RIGHT" />
           <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_STD_EUROS_FRONT_RIGHT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_EUROS_FRONT_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_STD_EUROS_FRONT_LEFT" />
         </Item>
       </EntryPoints>
       <LayoutFlags>StreamAnims UseDoorOscillation UseLeanSteerAnims UseSteeringWheelIk UseFinerAlignTolerance</LayoutFlags>
