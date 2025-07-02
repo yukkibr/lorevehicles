@@ -7,6 +7,6 @@
 
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
-| Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)</sub> | Status |
+| Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/)</sub> | Status |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | **PFISTER APOLLO** | apollo | ![Picture](https://img.gta5-mods.com/q95/images/pfister-apollo-add-on-tuning-sounds/43216a-20210425003921_1-min.png) | The Nation | [5MODS Link](https://www.gta5-mods.com/vehicles/pfister-apollo-add-on-tuning-sounds) | ✔️ |
