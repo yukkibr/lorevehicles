@@ -1,6 +1,6 @@
 ![Cars Count](https://img.shields.io/badge/Cars%20Count-40-brightgreen?style=for-the-badge)
 
-***All the vehicles in this pack was not made by me, i just picked all them and made a resource with all.***
+***All the vehicles on this pack was not made by me, i just picked all them and made a resource with all.***
 ***All the credits go to all the original creators.***
 
 <center><h1>All included cars with pictures and spawn codes</h1></center>
