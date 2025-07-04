@@ -47,7 +47,7 @@
 | Vehicle | Spawn | Picture | Author | Link | Status |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | **[PEGASSI] BATI 701** | bati701 | ![Picture](https://img.gta5-mods.com/q95/images/pegassi-bati-701-add-on-tuning-livery/6cc629-Grand_Theft_Auto_V_Screenshot_2020.05.07_-_13.48.22.47.jpg) | Ydrop | [5MODS](https://www.gta5-mods.com/vehicles/pegassi-bati-701-add-on-tuning-livery) | ✔️ |
-| **[PEGASSI] BATI 801 Custom** | batic | ![Picture](https://img.gta5-mods.com/q95/images/bati-801-custom-add-on-fivem-tuning/6fde79-bc6.jpg) | Silentm503 | [5MODS](https://www.gta5-mods.com/vehicles/bati-801-custom-add-on-fivem-tuning) | ✔️ |
+| **[PEGASSI] BATI 801 CUSTOM** | batic | ![Picture](https://img.gta5-mods.com/q95/images/bati-801-custom-add-on-fivem-tuning/6fde79-bc6.jpg) | Silentm503 | [5MODS](https://www.gta5-mods.com/vehicles/bati-801-custom-add-on-fivem-tuning) | ✔️ |
 | **[PEGASSI] BATI 901** | bati901 | ![Picture](https://img.gta5-mods.com/q95/images/pegassi-bati-901-add-on-tuning-sounds-lods/9b78c6-1.png) | LamboFreak | [5MODS](https://www.gta5-mods.com/vehicles/pegassi-bati-901-add-on-tuning-sounds-lods) | ✔️ |
 | **[PEGASSI] INFERNUS SE CLASSIC** | infernus2se | ![Picture](https://img.gta5-mods.com/q95/images/pegassi-infernus-se-classic-add-on/1c37e3-Grand_Theft_Auto_V_Screenshot_2020.04.18_-_04.26.23.71.jpg) | Voit Turyv, deadman23 et al. | [5MODS](https://www.gta5-mods.com/vehicles/pegassi-infernus-se-classic-add-on) | ✔️ |
 | **[PEGASSI] INFERNUS S ROADSTER** | infernussr | ![Picture](https://img.gta5-mods.com/q95/images/pegassi-infernus-s-roadster-add-on/b11c12-0.png) | LamboFreak | [5MODS](https://www.gta5-mods.com/vehicles/pegassi-infernus-s-roadster-add-on) | ✔️ |
@@ -62,3 +62,5 @@
 | Vehicle | Spawn | Picture | Author | Link | Status |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | **[PFISTER] APOLLO** | apollo | ![Picture](https://img.gta5-mods.com/q95/images/pfister-apollo-add-on-tuning-sounds/43216a-20210425003921_1-min.png) | The Nation | [5MODS](https://www.gta5-mods.com/vehicles/pfister-apollo-add-on-tuning-sounds) | ✔️ |
+| **[PFISTER] COMET CALLISTA** | callista | ![Picture](https://img.gta5-mods.com/q95/images/pfister-comet-callista-add-on-tuning-liveries-sounds/83f848-0-min.png) | Vanillaworks Team & Community | [5MODS](https://www.gta5-mods.com/vehicles/pfister-comet-callista-add-on-tuning-liveries-sounds) | ✔️ |
+| **[PFISTER] METEOR** | meteor | ![Picture](https://img.gta5-mods.com/q95/images/pfister-meteor-add-on/e81e81-0.png) |  Vanillaworks Team | [5MODS](https://www.gta5-mods.com/vehicles/pfister-meteor-add-on) | ✔️ |
