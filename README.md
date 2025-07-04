@@ -5,7 +5,7 @@
 
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
-<center><h1>ANNIS</h1></center>
+# ANNIS
 
 | VEHICLE | SPAWN | PICTURE | AUTHOR | LINK | STATUS |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -64,3 +64,16 @@
 | **APOLLO** | apollo | ![Picture](https://img.gta5-mods.com/q95/images/pfister-apollo-add-on-tuning-sounds/43216a-20210425003921_1-min.png) | The Nation | [5MODS](https://www.gta5-mods.com/vehicles/pfister-apollo-add-on-tuning-sounds) | ✔️ |
 | **COMET CALLISTA** | callista | ![Picture](https://img.gta5-mods.com/q95/images/pfister-comet-callista-add-on-tuning-liveries-sounds/83f848-0-min.png) | Vanillaworks Team & Community | [5MODS](https://www.gta5-mods.com/vehicles/pfister-comet-callista-add-on-tuning-liveries-sounds) | ✔️ |
 | **METEOR** | meteor | ![Picture](https://img.gta5-mods.com/q95/images/pfister-meteor-add-on/e81e81-0.png) |  Vanillaworks Team | [5MODS](https://www.gta5-mods.com/vehicles/pfister-meteor-add-on) | ✔️ |
+
+# ÜBERMACHT
+
+| Vehicle | Spawn | Picture | Author | Link | Status |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| **ORACLE V12 STD** | oraclestd & oracleta | ![Picture](https://img.gta5-mods.com/q95/images/oracles-v12-lowrider/106a5d-Grand_Theft_Auto_V_Screenshot_2018.07.08_-_14.20.15.53.png) | Ydrop | [5MODS](https://www.gta5-mods.com/vehicles/oracles-v12-lowrider) | ✔️ |
+
+# VAPID
+
+| Vehicle | Spawn | Picture | Author | Link | Status |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| **BULLET GT** | bulletgt | ![Picture](https://img.gta5-mods.com/q95/images/vapid-bullet-gt-add-on-tuning-liveries-template/c737bb-20190304020551_1.jpg) | Voit Turyv et al. | [5MODS](https://www.gta5-mods.com/vehicles/vapid-bullet-gt-add-on-tuning-liveries-template) | ✔️ |
+| **DOMINATOR GTT CUSTOM** | domttc | ![Picture](https://img.gta5-mods.com/q95/images/dominator-gtt-custom-add-on-fivem-tuning/273eec-dmttc1.jpg) | Silentm503 | [5MODS](https://www.gta5-mods.com/vehicles/dominator-gtt-custom-add-on-fivem-tuning) | ✔️ |
