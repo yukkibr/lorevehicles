@@ -5,6 +5,8 @@
 
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
+# ANNIS
+
 | Vehicle | Spawn | Picture | Author | Link | Status |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | **[ANNIS] ELEGY RH4** | rh4 | ![Picture](https://img.gta5-mods.com/q95/images/annis-elegy-rh4-add-on-tuning-liveries-sounds/91bdd7-0-min.png) | Vanillaworks Team & Community | [5MODS](https://www.gta5-mods.com/vehicles/annis-elegy-rh4-add-on-tuning-liveries-sounds) | ✔️ |
@@ -20,10 +22,30 @@
 | **[ANNIS] ZR250** | zr250 | ![Picture](https://img.gta5-mods.com/q95/images/annis-zr-250-savestra-add-on-tuning-liveries-sounds/4e4ae6-00.png) | Vanillaworks Team & Community | [5MODS](https://www.gta5-mods.com/vehicles/annis-zr-250-savestra-add-on-tuning-liveries-sounds) | ✔️ |
 | **[ANNIS] ZR350** | zr | ![Picture](https://img.gta5-mods.com/q95/images/zr350/05fa3e-ZR350.jpg) | deadman23 | [5MODS](https://www.gta5-mods.com/vehicles/zr350) | ✔️ |
 | **[ANNIS] ZR380** | zr380c & zr380s | ![Picture](https://img.gta5-mods.com/q95/images/annis-zr380-pack-add-on-tuning/065801-0-min.png) | Vanillaworks Team & Community | [5MODS](https://www.gta5-mods.com/vehicles/annis-zr380-pack-add-on-tuning) | ✔️ |
+
+# ENUS
+
+| Vehicle | Spawn | Picture | Author | Link | Status |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | **[ENUS] WINDSOR LUXORY** | windsor3 | ![Picture](https://img.gta5-mods.com/q95/images/enus-windsor-luxory-add-on-livery-oiv-fivem/4344a5-Screenshot_42.jpg) | Snow-Customs | [5MODS](https://www.gta5-mods.com/vehicles/enus-windsor-luxory-add-on-livery-oiv-fivem) | ✔️ |
+
+# GROTTI
+
+| Vehicle | Spawn | Picture | Author | Link | Status |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | **[GROTTI] CHEETAH CLASSIC** | vicechee | ![Picture](https://img.gta5-mods.com/q95/images/grotti-cheetah-classic-vice-city-pd/1407ed-Grand_Theft_Auto_V_Screenshot_2019.02.21_-_20.37.36.88.jpg) | Voit Turyv | [5MODS](https://www.gta5-mods.com/vehicles/grotti-cheetah-classic-vice-city-pd) | ✔️ |
+
+# KARIN
+
+| Vehicle | Spawn | Picture | Author | Link | Status |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | **[KARIN] INTRUDER CUSTOM** | intruderc | ![Picture](https://img.gta5-mods.com/q95/images/intruder-custom-add-on-fivem-tuning/eb17a4-int4.jpg) | Silentm503 | [5MODS](https://www.gta5-mods.com/vehicles/intruder-custom-add-on-fivem-tuning) | ✔️ |
 | **[KARIN] S95** | mk2s95 | ![Picture](https://img.gta5-mods.com/q95/images/karin-s95-add-on-fivem/f6c2ae-1.png) | POTUS | [5MODS](https://www.gta5-mods.com/vehicles/karin-s95-add-on-fivem) | ✔️ |
+
+# PEGASSI
+
+| Vehicle | Spawn | Picture | Author | Link | Status |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | **[PEGASSI] BATI 701** | bati701 | ![Picture](https://img.gta5-mods.com/q95/images/pegassi-bati-701-add-on-tuning-livery/6cc629-Grand_Theft_Auto_V_Screenshot_2020.05.07_-_13.48.22.47.jpg) | Ydrop | [5MODS](https://www.gta5-mods.com/vehicles/pegassi-bati-701-add-on-tuning-livery) | ✔️ |
 | **[PEGASSI] BATI 801 Custom** | batic | ![Picture](https://img.gta5-mods.com/q95/images/bati-801-custom-add-on-fivem-tuning/6fde79-bc6.jpg) | Silentm503 | [5MODS](https://www.gta5-mods.com/vehicles/bati-801-custom-add-on-fivem-tuning) | ✔️ |
 | **[PEGASSI] BATI 901** | bati901 | ![Picture](https://img.gta5-mods.com/q95/images/pegassi-bati-901-add-on-tuning-sounds-lods/9b78c6-1.png) | LamboFreak | [5MODS](https://www.gta5-mods.com/vehicles/pegassi-bati-901-add-on-tuning-sounds-lods) | ✔️ |
@@ -34,4 +56,9 @@
 | **[PEGASSI] OSIRIS ROADSTER** | osirisr | ![Picture](https://img.gta5-mods.com/q95/images/pegassi-osiris-roadster-add-on-tuning/c1f574-Screenshot(1797)-min.png) | harithd | [5MODS](https://www.gta5-mods.com/vehicles/pegassi-osiris-roadster-add-on-tuning) | ✔️ |
 | **[PEGASSI] TEMPESTA EVO STRADALE** | tempestaes | ![Picture](https://img.gta5-mods.com/q95/images/pegassi-tempesta-evo-stradale-add-on-tuning/46a664-tempesta1693-min.jpg) | harithd | [5MODS](https://www.gta5-mods.com/vehicles/pegassi-tempesta-evo-stradale-add-on-tuning) | ✔️ |
 | **[PEGASSI] TORERO CUSTOM** | torerod | ![Picture](https://img.gta5-mods.com/q95/images/pegassi-torero-custom/2ef1fd-screen.png) | Ydrop | [5MODS](https://www.gta5-mods.com/vehicles/pegassi-torero-custom) | ✔️ |
+
+# PFISTER
+
+| Vehicle | Spawn | Picture | Author | Link | Status |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | **[PFISTER] APOLLO** | apollo | ![Picture](https://img.gta5-mods.com/q95/images/pfister-apollo-add-on-tuning-sounds/43216a-20210425003921_1-min.png) | The Nation | [5MODS](https://www.gta5-mods.com/vehicles/pfister-apollo-add-on-tuning-sounds) | ✔️ |
